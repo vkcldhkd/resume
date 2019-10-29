@@ -2,12 +2,13 @@
 저는 배우는 것을 좋아하고, 개발경험 공유와 트렌디한 개발에 관심이 많습니다. Let’s Swift 등 행사도 참여했습니다. 또 Facebook 개발자 그룹, 개발 커뮤니티, iOS 오픈채팅방, 슬랙 등 에서 Swift나 iOS관련된 질문들에 답을 하며 활동을 하고있습니다.
 
 - Email : vkcldhkd@gmail.com
--  Facebook:  https://www.facebook.com/hyun.sung.18
--  Github:  github.com/vkcldhkd
+- Facebook:  https://www.facebook.com/hyun.sung.18
+- Github:  github.com/vkcldhkd
+- Phone : 010-4107-4942
 
 # 경력
 - 생산적문화활동
-	- 기간 : 2018년 10월 ~ 
+	- 기간 : 2018년 10월 ~ Now
 	- 역할 : iOS Developer
 	- 프로젝트 : 머머링(murmuring)
 
@@ -28,6 +29,9 @@
 	- 역할 : 개발(iOS)  
 	- 기간 : 2013년 8월 ~ 2013년 11월
 	- 마인드맵 애플리케이션은 사용자의 생각을 조금 더 확장 시켜나갈 수 있게 도움을 주고자 만든 앱 입니다. 아이폰 내에 데이터를 저장하기 위해 Core Data를 사용했고, 네이버 검색 API를 통해 연관검색어 기능을 사용했습니다. 또 Facebook API를 사용해 로그인과 게시물 업로드를 했습니다.
+	- [mindmap1](./images/mindmap1)
+	- [mindmap2](./images/mindmap2)
+	- [mindmap3](./images/mindmap3)
 
 - 3D FACE  
 	- 개발 환경 : XCode  
@@ -35,7 +39,8 @@
 	- 역할 : 개발(iOS)  
 	- 기간 : 2014년 8월 ~ 2014년 11월
 	- 3D FACE는 XCode의 framework를 사용해보기 위해 제작한 애플리케이션입니다. 얼굴 인식 후, 재미있게 바꿔주는 앱을 기획했고 Quartz Core framework와 Core Image framework를 이용해 어플리케이션을 제작했습니다.
-
+	- [3dface1](./images/3dface1)
+	- [3dface2](./images/3dface2)
 
 # 회사프로젝트
 - 링커벨  
@@ -44,6 +49,10 @@
 	- 역할 : 개발(iOS)  
 	-소속 : 더치트  
 	- 링커벨은 익명 소통 어플리케이션입니다. gcm을 이용해 푸시서비스를 구현했고, IAP를 이용해 결제서비스를 구현했으며 소스트리를 통해 소스관리를 했습니다.
+	- [rb1](./images/rb1)
+	- [rb2](./images/rb2)
+	- [rb3](./images/rb3)
+	- [rb4](./images/rb4)
 
 - 링커벨  대학생
 	- 개발환경 : XCode  
@@ -59,6 +68,20 @@
 	- 소속 : 더치트  
 	- 기존에 제작되어있던 ObjectiveC 기반의 코드를 전부 걷어내고 Swift로 작업했습니다. 그리고 디자인의 경우  스토리보드를 기능별로 나눠서 여러개의 스토리보드로 작업하였습니다. 라이브러리 관리는 cocoapods를 이용했으며 앱 내 결제서비스 구현 및 GCM을 이용해 푸시서비스를 구현했습니다. Jazzy 라는 커맨드라인 유틸리티를 이용해 애플 개발자문서 스타일의 프로젝트 API문서를 만들었습니다. 
 	- [해당 앱 앱스토어에서 보기](https://apps.apple.com/kr/app/%EB%8D%94%EC%B9%98%ED%8A%B8-%EC%82%AC%EA%B8%B0%ED%94%BC%ED%95%B4-%EC%A0%95%EB%B3%B4%EA%B3%B5%EC%9C%A0-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id634456915)
+	- [thecheat1](./images/thecheat1)
+	- [thecheat2](./images/thecheat2)
+	- [thecheat3](./images/thecheat3)
+	- [thecheat4](./images/thecheat4)
+	- [thecheat5](./images/thecheat5)
+	- [thecheat6](./images/thecheat6)
+	- [thecheat7](./images/thecheat7)
+	- [thecheat8](./images/thecheat8)
+	- [thecheat9](./images/thecheat9)
+	- [thecheat10](./images/thecheat10)
+	- [thecheat11](./images/thecheat11)
+	- [thecheat12](./images/thecheat12)
+	- [thecheat13](./images/thecheat13)
+
 
 - 더치트 경찰  
 	- 개발환경 : XCode  
@@ -73,6 +96,14 @@
 	- 역할 : 개발(iOS)  
 	- 소속 : 브릿지벤처스  
 	- 비트파트너는 비트코인을 전문적인 매니저가 매니징 해주는 앱 입니다. 주요 기능은 암호화폐 입출금과 원화입출금, 암호화폐 실시간 가격정보 제공, 펀드와 토큰 투자 등이 있습니다. 주로 사용한 라이브러리는 Alamofire, Socket io, Fcm 등 입니다.
+	- [bv1](./images/bv1)
+	- [bv1](./images/bv2)
+	- [bv1](./images/bv3)
+	- [bv1](./images/bv4)
+	- [bv1](./images/bv5)
+	- [bv1](./images/bv6)
+	- [bv1](./images/bv7)
+	- [bv1](./images/bv8)
 
 - 비트파트너 매니저  
 	- 개발환경 : Xcode  
