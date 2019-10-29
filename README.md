@@ -29,9 +29,9 @@
 	- 역할 : 개발(iOS)  
 	- 기간 : 2013년 8월 ~ 2013년 11월
 	- 마인드맵 애플리케이션은 사용자의 생각을 조금 더 확장 시켜나갈 수 있게 도움을 주고자 만든 앱 입니다. 아이폰 내에 데이터를 저장하기 위해 Core Data를 사용했고, 네이버 검색 API를 통해 연관검색어 기능을 사용했습니다. 또 Facebook API를 사용해 로그인과 게시물 업로드를 했습니다.
-	- [mindmap1](https://github.com/vkcldhkd/resume/blob/master/images/mindmap1)
-	- [mindmap2](https://github.com/vkcldhkd/resume/blob/master/images/mindmap2)
-	- [mindmap3](https://github.com/vkcldhkd/resume/blob/master/images/mindmap3)
+	- [mindmap1](https://github.com/vkcldhkd/resume/blob/master/images/mindmap1.png)
+	- [mindmap2](https://github.com/vkcldhkd/resume/blob/master/images/mindmap2.png)
+	- [mindmap3](https://github.com/vkcldhkd/resume/blob/master/images/mindmap3.png)
 
 - 3D FACE  
 	- 개발 환경 : XCode  
@@ -39,8 +39,8 @@
 	- 역할 : 개발(iOS)  
 	- 기간 : 2014년 8월 ~ 2014년 11월
 	- 3D FACE는 XCode의 framework를 사용해보기 위해 제작한 애플리케이션입니다. 얼굴 인식 후, 재미있게 바꿔주는 앱을 기획했고 Quartz Core framework와 Core Image framework를 이용해 어플리케이션을 제작했습니다.
-	- [3dface1](https://github.com/vkcldhkd/resume/blob/master/images/3dface1)
-	- [3dface2](https://github.com/vkcldhkd/resume/blob/master/images/3dface2)
+	- [3dface1](https://github.com/vkcldhkd/resume/blob/master/images/3dface1.png)
+	- [3dface2](https://github.com/vkcldhkd/resume/blob/master/images/3dface2.png)
 
 # 회사프로젝트
 - 링커벨  
@@ -49,10 +49,10 @@
 	- 역할 : 개발(iOS)  
 	-소속 : 더치트  
 	- 링커벨은 익명 소통 어플리케이션입니다. gcm을 이용해 푸시서비스를 구현했고, IAP를 이용해 결제서비스를 구현했으며 소스트리를 통해 소스관리를 했습니다.
-	- [rb1](https://github.com/vkcldhkd/resume/blob/master/images/rb1)
-	- [rb2](https://github.com/vkcldhkd/resume/blob/master/images/rb2)
-	- [rb3](https://github.com/vkcldhkd/resume/blob/master/images/rb3)
-	- [rb4](https://github.com/vkcldhkd/resume/blob/master/images/rb4)
+	- [rb1](https://github.com/vkcldhkd/resume/blob/master/images/rb1.png)
+	- [rb2](https://github.com/vkcldhkd/resume/blob/master/images/rb2.png)
+	- [rb3](https://github.com/vkcldhkd/resume/blob/master/images/rb3.png)
+	- [rb4](https://github.com/vkcldhkd/resume/blob/master/images/rb4.png)
 
 - 링커벨  대학생
 	- 개발환경 : XCode  
@@ -68,19 +68,19 @@
 	- 소속 : 더치트  
 	- 기존에 제작되어있던 ObjectiveC 기반의 코드를 전부 걷어내고 Swift로 작업했습니다. 그리고 디자인의 경우  스토리보드를 기능별로 나눠서 여러개의 스토리보드로 작업하였습니다. 라이브러리 관리는 cocoapods를 이용했으며 앱 내 결제서비스 구현 및 GCM을 이용해 푸시서비스를 구현했습니다. Jazzy 라는 커맨드라인 유틸리티를 이용해 애플 개발자문서 스타일의 프로젝트 API문서를 만들었습니다. 
 	- [해당 앱 앱스토어에서 보기](https://apps.apple.com/kr/app/%EB%8D%94%EC%B9%98%ED%8A%B8-%EC%82%AC%EA%B8%B0%ED%94%BC%ED%95%B4-%EC%A0%95%EB%B3%B4%EA%B3%B5%EC%9C%A0-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id634456915)
-	- [thecheat1](https://github.com/vkcldhkd/resume/blob/master/images/thecheat1)
-	- [thecheat2](https://github.com/vkcldhkd/resume/blob/master/images/thecheat2)
-	- [thecheat3](https://github.com/vkcldhkd/resume/blob/master/images/thecheat3)
-	- [thecheat4](https://github.com/vkcldhkd/resume/blob/master/images/thecheat4)
-	- [thecheat5](https://github.com/vkcldhkd/resume/blob/master/images/thecheat5)
-	- [thecheat6](https://github.com/vkcldhkd/resume/blob/master/images/thecheat6)
-	- [thecheat7](https://github.com/vkcldhkd/resume/blob/master/images/thecheat7)
-	- [thecheat8](https://github.com/vkcldhkd/resume/blob/master/images/thecheat8)
-	- [thecheat9](https://github.com/vkcldhkd/resume/blob/master/images/thecheat9)
-	- [thecheat10](https://github.com/vkcldhkd/resume/blob/master/images/thecheat10)
-	- [thecheat11](https://github.com/vkcldhkd/resume/blob/master/images/thecheat11)
-	- [thecheat12](https://github.com/vkcldhkd/resume/blob/master/images/thecheat12)
-	- [thecheat13](https://github.com/vkcldhkd/resume/blob/master/images/thecheat13)
+	- [thecheat1](https://github.com/vkcldhkd/resume/blob/master/images/thecheat1.png)
+	- [thecheat2](https://github.com/vkcldhkd/resume/blob/master/images/thecheat2.png)
+	- [thecheat3](https://github.com/vkcldhkd/resume/blob/master/images/thecheat3.png)
+	- [thecheat4](https://github.com/vkcldhkd/resume/blob/master/images/thecheat4.png)
+	- [thecheat5](https://github.com/vkcldhkd/resume/blob/master/images/thecheat5.png)
+	- [thecheat6](https://github.com/vkcldhkd/resume/blob/master/images/thecheat6.png)
+	- [thecheat7](https://github.com/vkcldhkd/resume/blob/master/images/thecheat7.png)
+	- [thecheat8](https://github.com/vkcldhkd/resume/blob/master/images/thecheat8.png)
+	- [thecheat9](https://github.com/vkcldhkd/resume/blob/master/images/thecheat9.png)
+	- [thecheat10](https://github.com/vkcldhkd/resume/blob/master/images/thecheat10.png)
+	- [thecheat11](https://github.com/vkcldhkd/resume/blob/master/images/thecheat11.png)
+	- [thecheat12](https://github.com/vkcldhkd/resume/blob/master/images/thecheat12.png)
+	- [thecheat13](https://github.com/vkcldhkd/resume/blob/master/images/thecheat13.png)
 
 
 - 더치트 경찰  
@@ -96,14 +96,14 @@
 	- 역할 : 개발(iOS)  
 	- 소속 : 브릿지벤처스  
 	- 비트파트너는 비트코인을 전문적인 매니저가 매니징 해주는 앱 입니다. 주요 기능은 암호화폐 입출금과 원화입출금, 암호화폐 실시간 가격정보 제공, 펀드와 토큰 투자 등이 있습니다. 주로 사용한 라이브러리는 Alamofire, Socket io, Fcm 등 입니다.
-	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv1)
-	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv2)
-	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv3)
-	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv4)
-	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv5)
-	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv6)
-	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv7)
-	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv8)
+	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv1.png)
+	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv2.png)
+	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv3.png)
+	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv4.png)
+	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv5.png)
+	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv6.png)
+	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv7.png)
+	- [bv1](https://github.com/vkcldhkd/resume/blob/master/images/bv8.png)
 
 - 비트파트너 매니저  
 	- 개발환경 : Xcode  
