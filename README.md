@@ -45,7 +45,7 @@
 	- 개발환경 : XCode  
 	- 사용한 기술 : Cocoapods(SDWebimage, GCM 등), iap, Storyboard Autolayout  
 	- 역할 : 개발(iOS)  
-	-소속 : 더치트  
+	- 소속 : 더치트  
 	- 링커벨은 익명 소통 어플리케이션입니다. gcm을 이용해 푸시서비스를 구현했고, IAP를 이용해 결제서비스를 구현했으며 소스트리를 통해 소스관리를 했습니다. 이미 제작되어있는 안드로이드 링커벨을 보고 앱을 개발했습니다.
 	- ![rb1](https://github.com/vkcldhkd/resume/blob/master/images/rb1.png)![rb2](https://github.com/vkcldhkd/resume/blob/master/images/rb2.png)![rb3](https://github.com/vkcldhkd/resume/blob/master/images/rb3.png)![rb4](https://github.com/vkcldhkd/resume/blob/master/images/rb4.png)
 
