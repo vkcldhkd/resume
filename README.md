@@ -95,3 +95,4 @@
 	- 소속 : 생산적문화활동  
 	- 머머링은 일상의 순간순간 발생하는 크고작은 감정들을 목소리를 통해 공유하고 소통하는 익명의 감정기반 음성공유 플랫폼입니다. 기존 Objective c 코드를 RxSwift + ReactorKit으로 변환 작업 후 유지보수 및 새로운 기능을 추가하고 있습니다.
 	- [해당 앱 앱스토어에서 보기](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B8%EB%A7%81-%EC%9D%BC%EC%83%81%EC%9D%84-%EB%8B%B4%EB%8A%94-%EB%AA%A9%EC%86%8C%EB%A6%AC/id1384878309)
+	- ![murmuring](https://github.com/vkcldhkd/resume/blob/master/images/mm1.png)
