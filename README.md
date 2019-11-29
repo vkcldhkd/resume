@@ -40,6 +40,14 @@
 	- 3D FACE는 얼굴인식 후 얼굴 변형을 보여주기 위해 만든 앱이며 Quartz Core framework와 Core Image framework를 이용해 어플리케이션을 제작했습니다.
 	- ![3dface1](https://github.com/vkcldhkd/resume/blob/master/images/3dface1.png)![3dface2](https://github.com/vkcldhkd/resume/blob/master/images/3dface2.png)
 
+- 공대남의 네일아트
+    - 개발 환경 : XCode  
+    - 사용한 기술 : Cocoapods, Storyboard Autolayout, Zeplin, Alamofire, Swift
+    - 역할 : 개발(iOS) 외주  
+    - 기간 : 2018년 8월 ~ 2018년 9월
+    - 공네일 어플의 초기버전을 제작했습니다. 언어는 Swift를 사용했으며 스토리보드로 레이아웃을 구성했습니다.
+    - [해당 앱 앱스토어에서 보기](https://apps.apple.com/kr/app/%EA%B3%B5%EB%8C%80%EB%82%A8%EC%9D%98%EB%84%A4%EC%9D%BC%EC%95%84%ED%8A%B8-%EB%84%A4%EC%9D%BC%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B0%8F-%EB%84%A4%EC%9D%BC%EC%83%B5-%EA%B2%80%EC%83%89-%EC%98%88%EC%95%BD-%EC%95%B1/id1425706665)
+
 # 회사프로젝트
 - 링커벨  
 	- 개발환경 : XCode  
