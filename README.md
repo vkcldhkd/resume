@@ -10,8 +10,8 @@
 # 경력
 - 아티스츠카드
 	- 기간 : 2020년 1월 ~
-	- 역할 : iOS Developer
-	- 프로젝트 : 클래식매니저(ClassicManager)
+	- 역할 : Front-End 팀장 & iOS Developer
+	- 프로젝트 : 클래식매니저(ClassicManager), 커버랄라(CoverLala)
 
 - 생산적문화활동
 	- 기간 : 2018년 10월 ~ 2019년 12월
