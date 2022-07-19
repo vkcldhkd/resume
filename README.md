@@ -8,8 +8,13 @@
 - Phone : 010-4107-4942
 
 # 경력
+- 네오플라이
+	- 기간 : 2022년 6월 
+	- 역할 : iOS Developer
+	- 프로젝트 : 네오핀
+	
 - 아티스츠카드
-	- 기간 : 2020년 1월 ~
+	- 기간 : 2020년 1월 ~ 2022년 5월
 	- 역할 : Front-End 팀장 & iOS Developer
 	- 프로젝트 : 클래식매니저(ClassicManager), 아티스츠카드(Artists’ Card)
 
