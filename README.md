@@ -21,7 +21,7 @@
 - 생산적문화활동
 	- 기간 : 2018년 10월 ~ 2019년 12월
 	- 역할 : iOS Developer
-	- 프로젝트 : [머머링(murmuring)](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B8%EB%A7%81-%EC%9D%BC%EC%83%81%EC%9D%84-%EB%8B%B4%EB%8A%94-%EB%AA%A9%EC%86%8C%EB%A6%AC/id1384878309) ,머머링 관리자
+	- 프로젝트 : [머머링(murmuring)](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B8%EB%A7%81-%EC%9D%BC%EC%83%81%EC%9D%84-%EB%8B%B4%EB%8A%94-%EB%AA%A9%EC%86%8C%EB%A6%AC/id1384878309), 머머링 관리자
 
 - 브릿지벤처스
 	- 기간 : 2017년 12월 ~ 2018년 06월
