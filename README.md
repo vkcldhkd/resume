@@ -16,7 +16,7 @@
 - 아티스츠카드
     - 기간 : 2020년 1월 ~ 2022년 5월
     - 역할 : iOS Developer
-    - 프로젝트 : [클래식매니저(ClassicManager)](https://apps.apple.com/kr/app/classicmanager/id1192661849)[아티스츠카드(Artists’ Card)](https://apps.apple.com/kr/app/%EC%95%84%ED%8B%B0%EC%8A%A4%EC%B8%A0%EC%B9%B4%EB%93%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%BD%98%EC%84%9C%ED%8A%B8/id1519755073)
+    - 프로젝트 : [클래식매니저(ClassicManager)](https://apps.apple.com/kr/app/classicmanager/id1192661849), [아티스츠카드(Artists’ Card)](https://apps.apple.com/kr/app/%EC%95%84%ED%8B%B0%EC%8A%A4%EC%B8%A0%EC%B9%B4%EB%93%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%BD%98%EC%84%9C%ED%8A%B8/id1519755073)
 
 - 생산적문화활동
 	- 기간 : 2018년 10월 ~ 2019년 12월
