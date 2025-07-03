@@ -6,6 +6,7 @@ iOS 개발을 시작한 이후 지금까지, 단순히 기능을 구현하는 �
 - Github:  github.com/vkcldhkd
 - Phone : 010-4107-4942
 - Kakaotalk: https://open.kakao.com/o/sIsbXPJb
+- Linkedin: www.linkedin.com/in/SUNG9
 
 # 경력
 - 네오플라이
